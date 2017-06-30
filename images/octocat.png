@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <base href="/blog/">
+    <link rel="alternate" type="application/rss+xml" href="/blog/feed.rss" title="RSS 2.0">
+    <link rel="alternate" type="application/atom+xml" href="/blog/feed.atom" title="Atom cite contents">
+    <link rel="canonical" href="http://penguinlab.jp/blog/post/2232">
+
+    <title>GitHub のネコ耳タコ足の生物 (Octocat) について - 情報と音楽</title>
+
+    <link rel="stylesheet" href="/blog/assets/application-91001437e7dd86173c234d851e2cd6f6.css">
+  </head>
+  <body>
+    <!-- facebook sdk -->
+    <div id="fb-root"></div>
+    <!-- /facebook sdk -->
+    <div class="site">
+      <div class="container">
+        <div class="visible-xs logo-container">
+          <object data="images/logo_landscape.svg" type="image/svg+xml" width="290" height="60" class="logo">
+          </object>
+          <a href="." class="click-area"></a>
+        </div>
+        <div class="row">
+          <div class="col-sm-8 box">
+            <nav class="global-nav">
+  <ul class="list-with-icon">
+    <li><a href="/blog/"><i class="fa fa-lg fa-book"></i> 記事一覧</a></li>
+    <li><a href="/blog/post/tag/"><i class="fa fa-lg fa-tags"></i> タグ一覧</a></li>
+  </ul>
+</nav>
+
+            <article>
+  <h1>GitHub のネコ耳タコ足の生物 (Octocat) について</h1>
+  <ul class="metadata list-with-icon">
+    <li>
+      <i class="fa fa-clock-o fa-lg"></i>
+      <time datetime="2012-03-10T01:32:40+09:00" itemptop="datePublished">2012年3月10日</time>
+    </li>
+    
+    <li>
+      <i class="fa fa-tag fa-lg"></i>
+      <ul class="tags">
+        
+        <li><a href="post/tag/%E3%83%AC%E3%83%95%E3%82%A1%E3%83%AC%E3%83%B3%E3%82%B9">レファレンス</a></li>
+        
+        <li><a href="post/tag/github">github</a></li>
+        
+      </ul>
+    </li>
+    
+  </ul>
+
+  <div class="post">
+  <p><a href="/blog/wp-content/uploads/Octocat.png"><img src="/blog/wp-content/uploads/Octocat-400x400.png" alt="" title="Octocat"></a></p>
+
+<p>この子について調べた。</p>
+
+<h3>名前は Octocat</h3>
+
+<p><a href="https://github.com/about" title="About">https://github.com/about</a> をみると、上記の画像のキャプションに「Octocat」とある。明らかに Octopus + Cat ですね。</p>
+
+<h3>原案は映像作家の David O&#39;reilly</h3>
+
+<p><a href="https://www.google.co.jp/search?q=site%3Aen.wikipedia.org+octcat">site:en.wikipedia.org octcat で検索</a>すると、<a href="http://en.wikipedia.org/wiki/David_O&#x27;Reilly_(artist)" title="David O&#39;Reilly (artist) - Wikipedia, the free encyclopedia">David O&#39;Reilly</a> という人物の記事にヒットし、ここに Octocat Adventure という項がある。要訳すると・・・</p>
+
+<ul>
+<li>2008年3月13日に YouTube にシカゴにすむ 9 才の少年から <a href="http://www.youtube.com/watch?v=8hm3E2cGQE4" title="OCTOCAT ADVENTURE 1 - YouTube">OCTOCAT ADVENTURE 1</a> という、「ペイント」で描かれたアニメーションが投稿される。</li>
+<li>その後、続編も投稿され、9月7日に<a href="http://www.youtube.com/watch?v=MROXgpRprSY" title="OCTOCAT ADVENTURE 5 END - YouTube">最後のエピソード</a>が公開される。</li>
+<li>最後のエピソードは開始 20 秒で突如 3DCG に変わりやたら高いクオリティに。</li>
+<li>David O&#39;reilly 氏が自らのサイトで、すべて自分の作であると明かす。</li>
+</ul>
+
+<p>とのこと。</p>
+
+<p>ちなみに最後のエピソードで流れる、日本語の歌は森田童子 (「ぼくたちの失敗」で有名) の「哀悼夜曲」という曲。なんで?</p>
+
+<h3>GitHub で使用しているイラストは iStockPhoto から</h3>
+
+<p>実際に、GitHub で使用している Octocat のイラストについては、<a href="http://www.quora.com/What-is-the-story-behind-Github%E2%80%99s-octocat-mascot" title="What is the story behind Github’s octocat mascot? - Quora">Quora</a> で GitHub の PJ Hyett 氏が回答している。こちらも要訳。</p>
+
+<ul>
+<li>GitHub の Tom Preston-Werner 氏が 404 ページ用のおもしろい画像を探してた。</li>
+<li><a href="http://nihongo.istockphoto.com/" title="iStockphoto: ロイヤリティフリーのストックフォト、ベクターアートイメージ、音楽＆ビデオ映像 | iStock JA">iStockphoto</a> で Octocat のイラストを発見し、$50 くらいで購入。</li>
+<li>その後、排他的使用権を取得。</li>
+<li>Git は octopus merge が使え (man git-merge)、Tom は猫好きだが、これがどれだけこの画像の選択に影響を及ぼしていたかは本人にきいてみないとわからん。</li>
+</ul>
+
+<p>とのこと。へー。</p>
+
+  </div>
+  <ul class="social-buttons">
+    <li><div class="fb-like" data-href="http://penguinlab.jp/blog/post/2232" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div>
+</li>
+    <li style="padding-top: 3px"><a href="http://b.hatena.ne.jp/entry/http://penguinlab.jp/blog/post/2232" class="hatena-bookmark-button" data-hatena-bookmark-layout="standard-balloon" data-hatena-bookmark-lang="ja" title="このエントリーをはてなブックマークに追加"><img src="http://b.st-hatena.com/images/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a><script type="text/javascript" src="http://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+</li>
+    <li style="padding-top: 3px"><a href="https://twitter.com/share" class="twitter-share-button">Tweet</a>
+</li>
+  </ul>
+</article>
+<div class="row prev-next-nav">
+  <div class="col-xs-6">
+    
+       <a rel="next" href="/blog/post/2244"><i class="fa fa-arrow-left"></i> JRuby から Datomic を使う</a>
+    
+  </div>
+  <div class="col-xs-6">
+    
+       <a rel="prev" href="/blog/post/2210"><i class="fa fa-arrow-right"></i> Rails, RSpec, Spork(, Guard) で適切にクラスをリロード</a>
+    
+  </div>
+</div>
+
+
+          </div>
+          <div class="col-sm-4 sidebar">
+            <div class="hidden-xs logo-container">
+              <object data="images/logo.svg" type="image/svg+xml" width="200" height="200" class="logo">
+              </object>
+              <a href="." class="click-area"></a>
+            </div>
+            <div class="sidebar-item">
+              <!-- Google Custom Search -->
+              <gcse:searchbox-only></gcse:searchbox-only>
+              <!-- /Google Custom Search -->
+            </div>
+            <div class="sidebar-item">
+              <img src="images/penguin.svg" alt="" class="author">
+              <div class="author-name">labocho</div>
+              <ul class="identities">
+                <li><a href="https://twitter.com/labocho" title="Twitter"><i class="fa fa-lg fa-twitter"></i> twitter.com/labocho</a></li>
+                <li><a href="https://github.com/labocho" title="GitHub"><i class="fa fa-lg fa-github"></i> github.com/labocho</a></li>
+              </ul>
+            </div>
+            <div class="sidebar-item">
+              <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/deed.ja"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="http://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a>
+            </div>
+            <div class="sidebar-item">
+              <iframe src="https://widgets.itunes.apple.com/widget.html?c=jp&amp;brc=FFFFFF&amp;blc=FFFFFF&amp;trc=FFFFFF&amp;tlc=FFFFFF&amp;d=%E8%89%AF%E3%81%84%E3%80%82&amp;t=%E3%81%8A%E3%82%82%E3%81%97%E3%82%8D%E3%81%8B%E3%81%A3%E3%81%9F%20iOS%20%E5%90%91%E3%81%91%E3%82%B2%E3%83%BC%E3%83%A0&amp;m=software&amp;e=software&amp;w=250&amp;h=330&amp;ids=867598817,728293409,401594433,323665063&amp;wt=playlist&amp;partnerId=&amp;affiliate_id=&amp;at=11lxLn&amp;ct=" frameborder=0 style="overflow-x:hidden;overflow-y:hidden;width:250px;height: 330px;border:0px"></iframe>
+            </div>
+          </div>
+        </div>
+      </div>
+      <footer class="container">
+        powered by <a href="http://jekyllrb.com/">Jekyll</a>.
+      </footer>
+    </div>
+    <script src="/blog/assets/application-496f6c35c5a978ca28721a843d7dc0d2.js"></script>
+  </body>
+</html>
